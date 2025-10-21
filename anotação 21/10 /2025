@@ -1,0 +1,33 @@
+//introdução a ARRAY
+//operação basica de ARRRY 
+// LOOP em ARRAY
+
+//array / lista :recebe uma lista e informação
+sep()
+/*let aluno = ["john", "bruno","clara",]
+console.log(aluno[1])
+console.log(aluno[2])
+console.log(aluno[3])*/
+
+sep("arrey / lita recebe")
+let aluno = ["john", "bruno","clara",]
+console.log(aluno)
+
+sep("altera informacão do array")
+aluno[1]="enzo" 
+console.log(aluno)
+
+sep ("adiciona elementos")
+aluno.push("maria")//adiciona elemento no final do array
+console.log(aluno)
+aluno.unshift("diego")//adiciona elemento no começo do array
+
+sep ("remove elementos")
+aluno.pop() //remove o ultimo elemento
+console.log(aluno)
+aluno.shift()//remove o primeiro elemento
+console(aluno) 
+//() -> parametro 
+//{} -> objeto / expressão ${}
+//[] -> array (lista  de informacões)
+
