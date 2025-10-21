@@ -1,0 +1,13 @@
+/*let aluno = ["lucas","maria" ,"joão"]
+
+for (let i = 0 ; 1 < aluno.length; i++) {
+    console .log ( aluno[i])
+}
+console.log("progama finalizado.")*/
+
+//====================================================
+let prodoto = ["mause","teclado","monitor"]
+console.log("=== lista de produtos ===")
+for (let i = 0 ; < produto.length; i++) {
+    console.log(`produto: ${i + 1}: ${produto [1]}`)
+}
