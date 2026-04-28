@@ -1,0 +1,22 @@
+aps 
+- tipos de arquitetura 
+- ferramentas de apoio 
+- criaçao de arquitetura simples
+
+modelo de arquitetura monolitico
+[ideia --> arquitetura --> sistema funcionando] ( HTML, CSS, JS ) , ( REACT ) , ( RUBY OU RAILS + REACT )
+[FE react
+BE note ] <== fe , be 
+             mout.coupo
+_____________________________________tudo em um local só
+
+sistema monolitico : -login, -cadastro, -setuque, -relatorios
+vantagem facil de começar, Bom para o sistema pequenos 
+
+************************************* ex App.jsx
+- Microserviços 
+loguin.jsx
+cadastro.jsx
+estoque.jsx
+relatorio.jsx
+__Banco de dados__
