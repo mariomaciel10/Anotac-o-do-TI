@@ -1,0 +1,13 @@
+## passos da instalação de pacotes
+
+1° passo - npm init -y
+2° passo - npm i [nome do pacote]
+3° passo - npm i -D jest 
+
+
+{no projeto pessoal usa-se 
+npm start}
+
+node --watch index.js serve para {
+cria um servidor no terminal como no }
+
